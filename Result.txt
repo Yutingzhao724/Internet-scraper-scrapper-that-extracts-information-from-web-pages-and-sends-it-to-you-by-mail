@@ -1,0 +1,13 @@
+The result of searching python: 
+Welcome to Python.org
+Python - Википедия
+
+
+
+
+Python Tutorial - W3Schools
+Python 基础教程 - 菜鸟教程
+python/cpython: The Python programming language - GitHub
+Python - GitHub
+Python for Everybody Specialization - Coursera
+Visualize code in Python, JavaScript, C, C++, and Java
