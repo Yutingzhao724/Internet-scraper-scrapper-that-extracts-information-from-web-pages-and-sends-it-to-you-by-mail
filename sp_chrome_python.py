@@ -45,8 +45,8 @@ att = MIMEText(open('D:\pythonProject\Result.txt', encoding="utf-8").read())
 att['Content-Disposition'] = 'attachment; filename= "python_test“'
 msg.attach(att)
 
-msg['From'] = Header('yutingzhao724@gmail.com')
-msg['To'] = Header('yutingzhao724@gmail.com')
+msg['From'] = Header('Sender's email address')
+msg['To'] = Header('Recipient's email address')
 msg['Subject'] = Header('Python test')
 
 mail = smtplib.SMTP_SSL("smtp.gmail.com", 465)
